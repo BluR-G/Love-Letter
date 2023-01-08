@@ -1,7 +1,7 @@
 namespace LoveLetterTest;
 
 [TestClass]
-public class UnitTest1
+public class Card
 {
     [TestMethod]
     public void TestMethod1()

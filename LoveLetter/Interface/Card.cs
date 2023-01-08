@@ -1,8 +1,8 @@
 namespace LoveLetter
 {
-  interface Card
+  public interface Card
   {
     public int StrengthNumber{get;}
-    public string CardNumber{get;}
+    public string CardName{get;}
   }
 }
